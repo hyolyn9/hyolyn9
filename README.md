@@ -30,5 +30,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <!---
-리눅스, centos, nginx, mariaDB, docker, node
+리눅스, centos, nginx, mariaDB, docker, node, bootstrap
 --->
