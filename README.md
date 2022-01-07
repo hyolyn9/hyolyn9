@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Javascript-e5a228?style=flat-square&logo=Javascript&logoColor=white"/>  
    
 <br>
-<br>
 
 
 ✨ Studying 🙋🏻‍♀️✨ <br><br>
@@ -27,8 +26,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-171717?style=flat-square&logo=react&logoColor=#61dafb"/> 
 
+<br>
 
-✨ experience �🤩✨ <br><br>
+✨ experience 🤩✨ <br><br>
 <img src="https://img.shields.io/badge/nginx-0d974d?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-046db2?style=flat-square&logo=docker&logoColor=white"/>
 <!---
