@@ -28,7 +28,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/react-171717?style=flat-square&logo=react&logoColor=#61dafb"/> 
 
 
+✨ experience 🐾✨
 
+<img src="https://img.shields.io/badge/nginx-0d974d?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-046db2?style=flat-square&logo=docker&logoColor=white"/>
 <!---
-리눅스, centos, nginx, mariaDB, docker, node, bootstrap
+리눅스, centos, mariaDB, node, bootstrap
 --->
