@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 <!-- <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>vg> -->
 
 <h2>✨ Teck Stack 👀✨</h2><br><br>
-<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css-264de4?style=flat-square&logo=css3&logoColor=white"/>
+<span><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/css-264de4?style=flat-square&logo=css3&logoColor=white"/></span>
 <img src="https://img.shields.io/badge/SCSS-cf649a?style=flat-square&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-e5a228?style=flat-square&logo=Javascript&logoColor=white"/>  
    
