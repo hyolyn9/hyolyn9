@@ -21,14 +21,14 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 
-<h2>✨ Studying 🙋🏻‍♀️✨</h2>
+<h3>✨ Studying 🙋🏻‍♀️✨</h3>
 <span><img src="https://img.shields.io/badge/Javascript-e5a228?style=flat-square&logo=Javascript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/react-171717?style=flat-square&logo=react&logoColor=#61dafb"/> </span>
 
 <br><br>
 
-<h2>✨ experience 🤩✨</h2>
+<h3>✨ experience 🤩✨</h3>
 <span><img src="https://img.shields.io/badge/nginx-0d974d?style=flat-square&logo=nginx&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/docker-046db2?style=flat-square&logo=docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/node-77b063?style=flat-square&logo=node.js&logoColor=white"/></span>
