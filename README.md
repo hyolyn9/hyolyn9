@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 ✨ experience 🤩✨ <br><br>
 <img src="https://img.shields.io/badge/nginx-0d974d?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-046db2?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/node-77b063?style=flat-square&logo=node&logoColor=white"/>
+<img src="https://img.shields.io/badge/node-77b063?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-7010ef?style=flat-square&logo=bootstrap&logoColor=white"/>
 <!---
 리눅스, centos, mariaDB, node, bootstrap
