@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 <span><img src="https://img.shields.io/badge/SCSS-cf649a?style=flat-square&logo=sass&logoColor=white"/></span> 
 <span><img src="https://img.shields.io/badge/Javascript-e5a228?style=flat-square&logo=Javascript&logoColor=white"/></span>  
    
-<h5>🔹 Framework</h5>   
+<h5>🔹 Framework</h5>  
+<span><img src="https://img.shields.io/badge/react-171717?style=flat-square&logo=react&logoColor=#61dafb"/> </span>
 <span><img src="https://img.shields.io/badge/Vue-3fb27f?style=flat-square&logo=vue.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/bootstrap-7010ef?style=flat-square&logo=bootstrap&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/react-171717?style=flat-square&logo=react&logoColor=#61dafb"/> </span>
    
    
 <br><br>
