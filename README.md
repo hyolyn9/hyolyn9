@@ -30,8 +30,9 @@ You can click the Preview link to take a look at your changes.
 <h2>Back-end</h2>
 
    
-<br><br>   
-   
+<br><br><br><br>   
+<hr>
+<div>
 <h4>✨ Studying 🙋🏻‍♀️✨</h4>
 <span><img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/></span>
 
@@ -46,3 +47,5 @@ You can click the Preview link to take a look at your changes.
 <!---
 리눅스, centos, mariaDB, node, bootstrap 
 --->
+   <hr>
+  </div>
