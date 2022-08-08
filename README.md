@@ -14,12 +14,10 @@ You can click the Preview link to take a look at your changes.
 
 <h4>✨ Teck Stack 👀✨</h4>
 <h2>Front-end</h2>
-<h5>🔹 Programming Language</h5>
+<!-- <h5>🔹 Programming Language</h5> -->
 <span><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/css-264de4?style=flat-square&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Javascript-e5a228?style=flat-square&logo=Javascript&logoColor=white"/></span>  
-   
-<h5>🔹 Framework / Technologies</h5>  
 <span><img src="https://img.shields.io/badge/react-171717?style=flat-square&logo=react&logoColor=#61dafb"/> </span>
 <!--<span><img src="https://img.shields.io/badge/Vue-3fb27f?style=flat-square&logo=vue.js&logoColor=white"/></span>-->
 <span><img src="https://img.shields.io/badge/SCSS-cf649a?style=flat-square&logo=sass&logoColor=white"/></span> 
@@ -27,13 +25,15 @@ You can click the Preview link to take a look at your changes.
    
    
 <br><br>
-<h2>Back-end</h2>
+<!--<h2>Back-end</h2>-->
 <h5>🔹 Programming Language</h5>
 <h5>🔹 Framework / Technologies</h5>
 <h5>🔹 Database</h5>
 <span><img src="https://img.shields.io/badge/MySQL-005e87?style=flat-square&logo=mysql&logoColor=white"/></span>
 
 <h5>🔹 OS</h5>
+<!--<span>Window</span>
+<span>linux</span>-->
    
 <br><br><br><br>   
 <hr>
